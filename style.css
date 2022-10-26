@@ -8,11 +8,17 @@ body {
 .header{
     display: flex;
     justify-content: center;
-    justify-content: space-around;
+    justify-content: space-between;
     padding: 20px;
     color: white;
     background-color: black;
+    padding-right: 450px;
+    padding-left: 300px;
+    padding-bottom: 50px;
     
+}
+.logo{
+    font-weight: 700;
 }
 
 ul.links{
@@ -31,4 +37,30 @@ a{
     background-color: black;
     color: white;
     display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    padding-right: 450px;
+    padding-left: 300px;
+    align-items: center;
+    padding-bottom: 60px;
+    
+}
+.overwatch{
+    font-weight: 700;
+    font-size: 24px;
+    padding-bottom: 8px;
+}
+
+.layer2 {
+    width: 250px;
+    
+}
+.layerinfo {
+    padding-bottom: 8px;
+}
+.choose {
+    padding: 8px;
+    color: white;
+    background-color: blue;
+    border: 0px;
 }
