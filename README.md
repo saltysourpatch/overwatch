@@ -27,14 +27,22 @@
 
         <div class="layer">
             <div class="layer2"> 
-                Overwatch 2 Out Now!
-            </div>
-            <div class="layer2info">
-                Join while it's still free, everyone can play! Lets Game!
-            </div>
-            <button class="choose">
+                <div class="overwatch">
+                    Overwatch 2 Out Now!
+                </div>
+                <div class="layerinfo">
+                    Join while it's still free, everyone can play! Lets Game!
+                </div> 
+                <button class="choose">
                 Choose Your Role
-            </button>
+                </button>
+            </div>
+            <div class="tracer">
+                <img src="images/tracer.avif">
+            </div>
+        </div>
+
+    </body>
             <div class="tracer">
                 <img src="images/tracer.avif">
             </div>
