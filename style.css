@@ -72,23 +72,51 @@ a{
 
 .container{
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     gap: 80px;
-    background-color: grey;
+    background-color: white;
     text-align: center;
+    
+    
     
 }
 
 .role{
     padding: 32px;
     text-align: center;
-    background-color: grey;
+    background-color: white;
 }
 
 .text{
     max-width: 200px;
     text-align: center;
+    background-color: white;
+    height: 100px;
+    margin-left: 50px;
+}
+
+.pics{
+    border: 24px;
+}
+
+.quote{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
     background-color: grey;
+}
+
+.twain{
+    margin-bottom: 16px;
+    display: flex;
+    font-size: 32px;
+    max-width: 450px;
+    text-align: center;
+    color: aquamarine;
     
-    
+}
+
+.mark{
+    font-weight: 700;
+    color: rebeccapurple;
 }
