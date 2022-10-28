@@ -48,25 +48,34 @@
         </div>
 
         <div class="container">
-            <div class="support">
+            <div class="pics">
                 <img src="images/mercy.jpeg">
                 <div class="text">
                     Support characters main job is to HEAL their teammates... do not forget that when you play Moira. Go heal!
                 </div>
             </div>
             
-            <div class="DPS">
+            <div class="pics">
                 <img src="images/genji.jpeg">
                 <div class="text">
                     DPS characters are all about Damage Per Second... Which is what the letters DPS stand for. So go get some Eliminations!
                 </div>
             </div>
 
-            <div class="tank">
+            <div class="pics">
                 <img src="images/hammy.jpeg">
                 <div class="text">
                     This is Hammond, a wrecking ball of a tank ;).... you will get that once you start playing. Go take some damage!
                 </div>
+            </div>
+        </div>
+
+        <div class="quote">
+            <div class="twain">
+                "It's not the size of the dog in the fight, it is the size of the fight in the dog"
+            </div>
+            <div class="mark">
+                - Mark Twain
             </div>
         </div>
 
